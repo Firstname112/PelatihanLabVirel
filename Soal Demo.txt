@@ -1,0 +1,11 @@
+nomor 1
+jadi box yang dibawah tidak akan ikut menghilang ketika di scroll keatas dan bagian box bawah tidak akan tertimbun bagian yang di scroll
+solusinya dikasih tag yang bisa auto adjust ketika dibuka dengan dimensi layar yang berbeda
+
+nomor 2
+ketika page dibuka dengan dimensi layar yang berbeda maka layout nya akan berubah
+menggunakan border samping
+
+nomor 3
+translate, border-b-3 border-grey-300 jadi gap, border-b-3, border-grey-300
+border-r-0.5
